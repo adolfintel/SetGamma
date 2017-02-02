@@ -1,7 +1,7 @@
 This utility can set/reset the screen gamma on Windows. It is useful when old games mess with it and when you quit the screen is too bright/dark.
 
 >>>	DOWNLOAD
-http://downloads.adolfintel.com/geth.php?r=setgamma
+http://downloads.fdossena.com/geth.php?r=setgamma
 
 >>>	USAGE
 Just run SetGamma.exe to reset the gamma
